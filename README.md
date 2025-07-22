@@ -15,6 +15,13 @@
 - 🗣️ Langues : Français, Anglais, (un peu) Espagnol & Japonais en cours
 
 ---
+## 📊 GitHub Stats
+
+![Marcus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcusWeb04&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusWeb04&layout=compact&theme=tokyonight)
+
+
+---
 
 ## 🛠️ Technologies & Outils
 
