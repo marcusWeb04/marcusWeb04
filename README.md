@@ -2,7 +2,7 @@
 
 🎨 Web Developer | 🎸 Musician | 🎮 Aspiring Game Dev  
 💻 Passionné de développement frontend & backend | 💡 Créatif et curieux  
-🌐 Building websites, apps, and exploring game dev & digital arts
+🌐 Building websites, apps, and exploring game dev & urban arts
 
 ---
 
@@ -15,20 +15,19 @@
 - 🗣️ Langues : Français, Anglais, (un peu) Espagnol & Japonais en cours
 
 ---
+
 ## 📊 GitHub Stats
 
-![Marcus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcusWeb04&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusWeb04&layout=compact&theme=tokyonight)
+![Marcus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcusWeb04&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusWeb04&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcusWeb04&theme=tokyonight)
-
-
 
 ---
 
 ## 🛠️ Technologies & Outils
 
-```bash
-💻 Languages: HTML, CSS, JavaScript, PHP, Python, C#
-⚙️ Frameworks: React, Symfony
-🛠️ Outils: Git, GitHub, Node.js, MySQL, VS Code
+```text
+💻 Languages : HTML, CSS, JavaScript, PHP, Python, C#
+⚙️ Frameworks : React, Symfony
+🛠️ Outils     : Git, GitHub, Node.js, MySQL, VS Code
 🎨 DA en construction : musique, graffiti, pixel art
