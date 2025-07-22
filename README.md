@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Salut ! Hello there 👋, I'm Marcus</h1>
 
-<!--
-**marcusWeb04/marcusWeb04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Web Developer | 🎸 Musician | 🎮 Aspiring Game Dev  
+💻 Passionné de développement frontend & backend | 💡 Créatif et curieux  
+🌐 Building websites, apps, and exploring game dev & digital arts
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 À propos de moi / About Me
+
+- 🔥 Je travaille sur des projets web complets (front & back)
+- 🎯 Je me lance dans le **mobile** et les **jeux vidéo**
+- 🎵 Je fais de la **musique** (guitare & un peu de piano), j’adore le **graffiti**, la **création de projets**, les **jeux vidéo**
+- 🌱 J'apprends actuellement le **japonais**, et j’ai des notions en **espagnol**
+- 🗣️ Langues : Français, Anglais, (un peu) Espagnol & Japonais en cours
+
+---
+
+## 🛠️ Technologies & Outils
+
+```bash
+💻 Languages: HTML, CSS, JavaScript, PHP, Python, C#
+⚙️ Frameworks: React, Symfony
+🛠️ Autres: Git, GitHub, Node.js, MySQL, VS Code
+🎨 DA en construction : musique, graffiti, pixel art
+
+📊 GitHub Stats
+
+🎸 Fun facts
+🎶 Je joue de la guitare
+
+🕹️ J’adore les jeux
+
+🖍️ J’aime expérimenter autour du graffiti et du design artistique
+
+“Code it like music, build it like a world.”
